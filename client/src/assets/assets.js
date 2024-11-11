@@ -1,4 +1,4 @@
-import logo from './logo.png'
+import logo from './Logo.png'
 import logo_icon from './logo_icon.svg'
 import arrow_icon from './arrow_icon.svg'
 import header_video from './header_video.mp4'
